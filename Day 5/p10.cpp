@@ -11,7 +11,6 @@ int main() {
     for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
-
     unordered_set<int> seen;
     vector<int> result;
 
